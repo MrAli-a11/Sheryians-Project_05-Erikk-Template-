@@ -1,20 +1,14 @@
-# Project Name
+# Erikk Template 
 
 A simple and responsive HTML and CSS project created during the Sheryians cohort.
 
-![Project Screenshot](screenshot.png) 
----
+
 
 ## Table of Contents
 - [Project Description](#project-description)
 - [Features](#features)
 - [How to Use](#how-to-use)
-- [Screenshots](#screenshots)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ---
 
